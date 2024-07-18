@@ -1,1 +1,3 @@
 Flask
+speedtest-cli
+Flask-Cors
